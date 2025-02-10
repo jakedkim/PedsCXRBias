@@ -1,0 +1,22 @@
+{
+    "data_dir": "/home/jkim/research/peds_cxr/images/",
+    "labels": ["No Finding", "Consolidation", "Cardiomegaly", "Infiltration", "Pneumonia", "Mass/Nodule"],
+    "dataset_nicenames":
+        {
+            "nihcxr14_test":  "NIH CXR14",
+            "chexpert_test":  "CheXpert",
+            "mimic_test":  "MIMIC",
+            "padchest_test":  "PadChest",
+            "rsna_pneumonia_test_100":  "RSNA Pneumonia",
+            "rsna_pneumonia_DeiT-B_test_100": "RSNA Pneumonia DeiT-B",
+            "Aggregate_DenseNet121_test": "VinDR DenseNet121",
+            "Aggregate_DenseNet121_vindr_test": "VinDR DenseNet121",
+            "Aggregate_DenseNet121_nih_test": "NIH DenseNet121",
+            "Aggregate_DenseNet121_aggregate": "Aggregate DenseNet121", 
+            "Aggregate_DenseNet121_vindr_test_M": "VinDR DenseNet121 Male",
+            "Aggregate_DenseNet121_vindr_test_F": "VinDR DenseNet121 Female",
+            "VinDR_DenseNet121_vindr_test": "VinDR DenseNet121",
+            "VinDR_DenseNet121_vindr_test_M": "VinDR DenseNet121 Male", 
+            "VinDR_DenseNet121_vindr_test_F": "VinDR DenseNet121 Female"
+        }
+}

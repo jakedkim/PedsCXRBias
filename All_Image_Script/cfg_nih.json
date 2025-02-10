@@ -1,0 +1,17 @@
+{
+    "data_dir": "/home/jkim/research/peds_cxr/images/",
+    "labels": ["No Finding","Atelectasis","Cardiomegaly","Consolidation","Edema","Effusion","Emphysema","Infiltration","Mass/Nodule","Pleural_Thickening","Pneumonia","Pneumothorax"],
+    "dataset_nicenames":
+        {
+            "nihcxr14_test":  "NIH CXR14",
+            "chexpert_test":  "CheXpert",
+            "mimic_test":  "MIMIC",
+            "padchest_test":  "PadChest",
+            "rsna_pneumonia_test_100":  "RSNA Pneumonia",
+            "rsna_pneumonia_DeiT-B_test_100": "RSNA Pneumonia DeiT-B",
+            "Aggregate_DenseNet121_vindr_test": "VinDR DenseNet121",
+            "NIH_DenseNet121_vindr_test": "NIH DenseNet121",
+            "NIH_DenseNet121_vindr_test_M": "NIH DenseNet121 Male", 
+            "NIH_DenseNet121_vindr_test_F": "NIH DenseNet121 Female"
+        }
+}
